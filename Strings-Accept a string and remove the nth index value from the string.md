@@ -30,5 +30,8 @@ n=int(input())
 remove(a,n)
 
 ## Output
+<img width="801" height="172" alt="image" src="https://github.com/user-attachments/assets/32f96a27-214f-4e4c-949c-53ead62dba2e" />
+
 
 ## Result
+Thus the program has been successfully executed
